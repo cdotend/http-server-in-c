@@ -1,4 +1,4 @@
-#HTTP Server in C
+# HTTP Server in C
 
 First of all, the reason I made this public is to get help from the community where I have made obvious mistakes.
 Second, I'm new so go easy on me!
